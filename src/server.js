@@ -1,3 +1,5 @@
+// useless command
+
 const app = require('./app');
 const debug = require('debug')('roi-frontend:server');
 const http = require('http');
